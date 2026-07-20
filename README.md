@@ -15,6 +15,9 @@ flowchart LR
     B --> C[Slack message posted to channel]
 ```
 
+## The Make.com scenario
+![Make.com scenario: webhook to Slack](scenario.png)
+
 ## What the Slack message looks like
 ```
 🔔 New form submission!
