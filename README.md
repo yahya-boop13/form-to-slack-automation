@@ -16,7 +16,7 @@ flowchart LR
 ```
 
 ## The Make.com scenario
-![Make.com scenario: webhook to Slack](scenario.png)
+![Make.com scenario: webhook to Slack](Scenario.png)
 
 ## What the Slack message looks like
 ```
